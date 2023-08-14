@@ -101,6 +101,7 @@ bin/
 bin-debug/
 bin-release/
 .actionScriptProperties
+build/
 
 # only for a non-library project
 .flexProperties
